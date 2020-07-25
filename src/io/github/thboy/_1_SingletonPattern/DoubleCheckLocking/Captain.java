@@ -17,6 +17,7 @@ final class Captain {
                     System.out.println("You already have a captain for your team");
                     System.out.println("Send him for the toss");
                 }
+                return captain;
             }
         }
     }
